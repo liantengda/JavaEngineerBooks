@@ -68,7 +68,7 @@ Elasticsearch是一个搜索引擎，输入写入ES的过程就是索引化的�
 ### [6、介绍下你们电商搜索的整体技术架构。](https://github.com/liantengda/JavaEngineerBooks/blob/master/docs/Elasticsearch/Elasticsearch最新面试题，2021年面试题及答案汇总.md#6介绍下你们电商搜索的整体技术架构。)  
 
 
-![](http://shasengbufa.com/project.png)
+![](http://shasengbufa.com/img/project.png)
 
 
 ### [7、客户端在和集群连接时，如何选择特定的节点执行请求的？](https://github.com/liantengda/JavaEngineerBooks/blob/master/docs/Elasticsearch/Elasticsearch最新面试题，2021年面试题及答案汇总.md#7客户端在和集群连接时如何选择特定的节点执行请求的)  
@@ -171,6 +171,6 @@ cat API 命令提供了Elasticsearch 集群的分析、概述和运行状况，�
 
 ## 新增：Java最全最新大厂面试题合集整套，精美PDF，全目录，精准导航，无水印，不拆撒，一本能用一辈子
 
-[![大厂面试题](http://shasengbufa.com/1.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/1.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")
 
-[![大厂面试题](http://shasengbufa.com/wechat.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/wechat.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")

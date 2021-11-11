@@ -11,11 +11,11 @@
 
 由于某些原因，employee-consumer 公开服务会引发异常。在这种情况下使用 Hystrix 我们定义了一个回退方法。如果在公开服务中发生异常，则回退方法返回一些默认值
 
-![](http://shasengbufa.com/employ.png)
+![](http://shasengbufa.com/img/employ.png)
 
 中断，并且员工使用者将一起跳过 firtsPage 方法，并直接调用回退方法。 断路器的目的是给第一页方法或第一页方法可能调用的其他方法留出时间，并导致异常恢复。可能发生的情况是，在负载较小的情况下，导致异常的问题有更好的恢复机会 。
 
-![](http://shasengbufa.com/employ2.png)
+![](http://shasengbufa.com/img/employ2.png)
 
 
 ### [2、springcloud如何实现服务的注册?](https://github.com/liantengda/JavaEngineerBooks/blob/master/docs/SpringCloud/SpringCloud最新2021年面试题附答案解析，大汇总.md#2springcloud如何实现服务的注册)  
@@ -31,7 +31,7 @@
 
 微服务架构具有以下组件：
 
-![](http://shasengbufa.com/employ3.png)
+![](http://shasengbufa.com/img/employ3.png)
 
 图5：微服务 架构 – 微服务面试问题
 
@@ -97,7 +97,7 @@ Spring Cloud应用程序的分布式请求链路跟踪，支持使用Zipkin、HT
 ### [9、你所知道微服务的技术栈有哪些？列举一二](https://github.com/liantengda/JavaEngineerBooks/blob/master/docs/SpringCloud/SpringCloud最新2021年面试题附答案解析，大汇总.md#9你所知道微服务的技术栈有哪些列举一二)  
 
 
-![](http://shasengbufa.com/microConfig.png)
+![](http://shasengbufa.com/img/microConfig.png)
 
 
 ### [10、Spring Cloud Bus](https://github.com/liantengda/JavaEngineerBooks/blob/master/docs/SpringCloud/SpringCloud最新2021年面试题附答案解析，大汇总.md#10spring-cloud-bus)  
@@ -139,6 +139,6 @@ Spring Cloud应用程序的分布式请求链路跟踪，支持使用Zipkin、HT
 
 ## 新增：Java最全最新大厂面试题合集整套，精美PDF，全目录，精准导航，无水印，不拆撒，一本能用一辈子
 
-[![大厂面试题](http://shasengbufa.com/1.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/1.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")
 
-[![大厂面试题](http://shasengbufa.com/wechat.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/wechat.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")

@@ -19,7 +19,7 @@
 
 有了倒排索引，就能实现`o（1）时间复杂度`的效率检索文章了，极大的提高了检索效率。
 
-![](http://shasengbufa.com/elasticSearch.png)
+![](http://shasengbufa.com/img/elasticSearch.png)
 
 学术的解答方式：
 
@@ -66,7 +66,7 @@ lucene从4+版本后开始大量使用的数据结构是FST。FST有两个优点
 
 记住官方文档中的这个图。
 
-![](http://shasengbufa.com/elasticSearch2.png)
+![](http://shasengbufa.com/img/elasticSearch2.png)
 
 第一步：客户写集群某节点写入数据，发送请求。（如果没有指定路由/协调节点，请求的节点扮演`路由节点`的角色。）
 
@@ -207,6 +207,6 @@ name
 
 ## 新增：Java最全最新大厂面试题合集整套，精美PDF，全目录，精准导航，无水印，不拆撒，一本能用一辈子
 
-[![大厂面试题](http://shasengbufa.com/1.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/1.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")
 
-[![大厂面试题](http://shasengbufa.com/wechat.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/wechat.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")

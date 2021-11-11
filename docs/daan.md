@@ -1,4 +1,4 @@
-[![大厂面试题](http://shasengbufa.com/wechat.jpg "叶子创业记")]()
+[![大厂面试题](http://shasengbufa.com/img/wechat.jpg "叶子创业记")]()
 
 ## 其实，博主还整理了，更多大厂面试题，直接下载吧
 

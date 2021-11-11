@@ -11,7 +11,7 @@
 
 以下是设计微服务的最佳实践：
 
-![](http://shasengbufa.com/separatedata.png)
+![](http://shasengbufa.com/img/separatedata.png)
 
 图4：设计微服务的最佳实践 – 微服务访谈问题
 
@@ -87,7 +87,7 @@ Hystrix实现服务降级的功能是通过重写HystrixCommand中的getFallback
 
 通俗地说，你可以说端到端测试是一种测试，在特定时期后测试所有东西。
 
-![](http://shasengbufa.com/unitTest.png)
+![](http://shasengbufa.com/img/unitTest.png)
 
 图14：测试层次 – 微服务面试问题
 
@@ -131,6 +131,6 @@ Hystrix实现服务降级的功能是通过重写HystrixCommand中的getFallback
 
 ## 新增：Java最全最新大厂面试题合集整套，精美PDF，全目录，精准导航，无水印，不拆撒，一本能用一辈子
 
-[![大厂面试题](http://shasengbufa.com/1.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/1.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")
 
-[![大厂面试题](http://shasengbufa.com/wechat.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/wechat.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")

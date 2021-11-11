@@ -128,6 +128,6 @@ SpringBoot 提供监视器端点以监控各个微服务的度量。这些端点
 
 ## 新增：Java最全最新大厂面试题合集整套，精美PDF，全目录，精准导航，无水印，不拆撒，一本能用一辈子
 
-[![大厂面试题](http://shasengbufa.com/1.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/1.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")
 
-[![大厂面试题](http://shasengbufa.com/wechat.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/wechat.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")

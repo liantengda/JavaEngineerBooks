@@ -25,7 +25,7 @@ SpringBoot执行程序提供了restful Web服务，以访问生产环境中运�
 
 SpringBoot是解决这个问题的方法。使用spring boot可以避免所有样板代码和配置。因此，基本上认为自己就好像你正在烘烤蛋糕一样，春天就像制作蛋糕所需的成分一样，弹簧靴就是你手中的完整蛋糕。
 
-![](http://shasengbufa.com/springBoot.png)
+![](http://shasengbufa.com/img/springBoot.png)
 
 图10：  SpringBoot的因素 – 微服务面试问题
 
@@ -53,7 +53,7 @@ SpringBoot是解决这个问题的方法。使用spring boot可以避免所有�
 ### [6、微服务有哪些特点？](https://github.com/liantengda/JavaEngineerBooks/blob/master/docs/SpringCloud/SpringCloud最新面试题，2021年面试题及答案汇总.md#6微服务有哪些特点)  
 
 
-![](http://shasengbufa.com/microService2.png)
+![](http://shasengbufa.com/img/microService2.png)
 
 图3：微服务的 特点 – 微服务访谈问题
 
@@ -145,6 +145,6 @@ SpringBoot是解决这个问题的方法。使用spring boot可以避免所有�
 
 ## 新增：Java最全最新大厂面试题合集整套，精美PDF，全目录，精准导航，无水印，不拆撒，一本能用一辈子
 
-[![大厂面试题](http://shasengbufa.com/1.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/1.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")
 
-[![大厂面试题](http://shasengbufa.com/wechat.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/wechat.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")

@@ -15,7 +15,7 @@ Hystrix是一个延迟和容错库，旨在隔离远程系统，服务和第三�
 
 思考以下微服务
 
-![](http://shasengbufa.com/micro1.png)
+![](http://shasengbufa.com/img/micro1.png)
 
 假设如果上图中的微服务9失败了，那么使用传统方法我们将传播一个异常。但这仍然会导致整个系统崩溃。
 
@@ -23,7 +23,7 @@ Hystrix是一个延迟和容错库，旨在隔离远程系统，服务和第三�
 
 简化图如下所示
 
-![](http://shasengbufa.com/micro2.png)
+![](http://shasengbufa.com/img/micro2.png)
 
 现在假设由于某种原因，employee-producer公开的服务会抛出异常。我们在这种情况下使用Hystrix定义了一个回退方法。这种后备方法应该具有与公开服务相同的返回类型。如果暴露服务中出现异常，则回退方法将返回一些值。
 
@@ -47,7 +47,7 @@ Hystrix是一个延迟和容错库，旨在隔离远程系统，服务和第三�
 
 **5、** dubbo的开发难度较⼤，原因是dubbo的jar包依赖问题很多⼤型⼯程⽆法解决。
 
-![](http://shasengbufa.com/dubbo.png)
+![](http://shasengbufa.com/img/dubbo.png)
 
 
 ### [4、SpringCloud Config 可以实现实时刷新吗？](https://github.com/liantengda/JavaEngineerBooks/blob/master/docs/SpringCloud/SpringCloud最新面试题2021年，常见面试题及答案汇总.md#4springcloud-config-可以实现实时刷新吗)  
@@ -85,7 +85,7 @@ OAuth 代表开放授权协议。这允许通过在HTTP服务上启用客户端�
 
 **3、** 客户端还可以缓存⼀些服务实例信息，所以即使Eureka全挂掉，客户端也是可以定位到服务地址的。
 
-![](http://shasengbufa.com/ribbon.png)
+![](http://shasengbufa.com/img/ribbon.png)
 
 
 ### [9、Zuul与Nginx有什么区别？](https://github.com/liantengda/JavaEngineerBooks/blob/master/docs/SpringCloud/SpringCloud最新面试题2021年，常见面试题及答案汇总.md#9zuul与nginx有什么区别)  
@@ -145,6 +145,6 @@ Zuul是java语言实现的，主要为java服务提供网关服务，尤其在�
 
 ## 新增：Java最全最新大厂面试题合集整套，精美PDF，全目录，精准导航，无水印，不拆撒，一本能用一辈子
 
-[![大厂面试题](http://shasengbufa.com/1.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/1.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")
 
-[![大厂面试题](http://shasengbufa.com/wechat.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/wechat.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")

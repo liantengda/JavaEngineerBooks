@@ -75,7 +75,7 @@ Spring Cloud是一个由许多子项目组成的综合项目，各子项目有�
 ### [5、springcloud核⼼组件及其作⽤，以及springcloud⼯作原理：](https://github.com/liantengda/JavaEngineerBooks/blob/master/docs/SpringCloud/SpringCloud最新2021年面试题及答案，汇总版.md#5springcloud核⼼组件及其作⽤以及springcloud⼯作原理：)  
 
 
-![](http://shasengbufa.com/springcloud.png)
+![](http://shasengbufa.com/img/springcloud.png)
 
 **springcloud由以下⼏个核⼼组件构成：**
 
@@ -166,6 +166,6 @@ DRY代表不要重复自己。它基本上促进了重用代码的概念。这�
 
 ## 新增：Java最全最新大厂面试题合集整套，精美PDF，全目录，精准导航，无水印，不拆撒，一本能用一辈子
 
-[![大厂面试题](http://shasengbufa.com/1.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/1.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")
 
-[![大厂面试题](http://shasengbufa.com/wechat.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/wechat.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")

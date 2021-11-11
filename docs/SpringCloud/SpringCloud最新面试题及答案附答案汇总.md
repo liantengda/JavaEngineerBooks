@@ -27,7 +27,7 @@
 ### [3、为什么需要域驱动设计（DDD）？](https://github.com/liantengda/JavaEngineerBooks/blob/master/docs/SpringCloud/SpringCloud最新面试题及答案附答案汇总.md#3为什么需要域驱动设计ddd)  
 
 
-![](http://shasengbufa.com/ddd.png)
+![](http://shasengbufa.com/img/ddd.png)
 
 图9：我们需要DDD的因素 – 微服务面试问题
 
@@ -62,7 +62,7 @@ Spring boot是微服务面试问题的主要话题。 随着新功能的加入�
 
 您可以列出微服务的特征，如下所示：
 
-![](http://shasengbufa.com/microService.png)
+![](http://shasengbufa.com/img/microService.png)
 
 图7：微服务的特征 – 微服务访谈问题
 
@@ -143,6 +143,6 @@ Sleuth的实现是基于HTTP的，为了在数据的收集过程中不能影响�
 
 ## 新增：Java最全最新大厂面试题合集整套，精美PDF，全目录，精准导航，无水印，不拆撒，一本能用一辈子
 
-[![大厂面试题](http://shasengbufa.com/1.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/1.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")
 
-[![大厂面试题](http://shasengbufa.com/wechat.jpg "叶子创业记")](http://shasengbufa.com/wechat.jpg "叶子创业记")
+[![大厂面试题](http://shasengbufa.com/img/wechat.jpg "叶子创业记")](http://shasengbufa.com/img/wechat.jpg "叶子创业记")
